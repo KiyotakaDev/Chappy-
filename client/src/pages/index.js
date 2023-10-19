@@ -1,0 +1,5 @@
+export { default as ChatPage } from './ChatPage'
+export { default as ErrorPage } from './ErrorPage'
+export { default as LoginPage } from './LoginPage'
+export { default as RegisterPage } from './RegisterPage'
+export { default as SetAvatarPage } from './SetAvatarPage'
